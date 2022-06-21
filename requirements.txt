@@ -23,7 +23,7 @@ ipaddress==1.0.18
 itsdangerous==0.24
 kombu==4.1.0
 nltk==3.2.4
-numpy==1.13.1
+numpy==1.22.0
 public==0.0.38
 pyOpenSSL==17.2.0
 pycparser==2.18
